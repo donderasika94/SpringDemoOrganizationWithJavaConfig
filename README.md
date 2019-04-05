@@ -1,0 +1,2 @@
+SpringDemoOrganizationWithJavaConfig
+This folder contains Organization assignments with Java config
